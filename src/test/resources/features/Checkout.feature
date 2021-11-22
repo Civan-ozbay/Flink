@@ -1,3 +1,4 @@
+
 Feature: Checkout
   @wip
   Scenario Outline: User should be able to pay

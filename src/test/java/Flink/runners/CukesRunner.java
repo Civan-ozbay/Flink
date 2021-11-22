@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         features = "src/test/Resources/Features",
         glue = "Flink/stepDefinitions",
         dryRun = false,
-        tags = "@wip"
+        tags = "@smoke"
 )
 public class CukesRunner {
 }

@@ -1,3 +1,4 @@
+@smoke
 Feature: Adding moisturizers to cart
   @wip
   Scenario: User should be able to add moisturizers to cart
